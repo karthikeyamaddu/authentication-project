@@ -1,6 +1,6 @@
 # Authentication Project
 
-This is an educational platform authentication project built using **React**, **Python (Flask)**, and **MongoDB**. It integrates **Google Authenticator** for two-factor authentication (2FA), where users can generate and verify OTPs for enhanced security.
+This is an educational platform authentication project built using **React**, **Python (Flask)**, and **MongoDB**. It integrates **Authenticator** for two-factor authentication (2FA), where users can generate and verify OTPs for enhanced security.
 
 ## Features
 
