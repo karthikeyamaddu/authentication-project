@@ -1,0 +1,55 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #f4f7fa;
+}
+
+.container {
+  max-width: 500px;
+  margin: auto;
+  padding: 20px;
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+h1 {
+  text-align: center;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+.message {
+  margin-top: 20px;
+  font-weight: bold;
+  color: #333;
+}
+
+.qr-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.qr-container img {
+  width: 200px;
+  height: 200px;
+}
